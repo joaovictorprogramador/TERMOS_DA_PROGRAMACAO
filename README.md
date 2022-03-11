@@ -36,3 +36,7 @@
 <h3> T.D.D. (Test Driven Development) </h3>
   <p> <br/> <i>(by: )</i>
   </p>
+
+<h3> CLOUD COMPUTING </h3>
+  <p> Computação em Nuvem. <br/> <i>(by: )</i>
+  </p>
