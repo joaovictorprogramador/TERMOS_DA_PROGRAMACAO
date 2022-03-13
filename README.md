@@ -44,3 +44,7 @@
 <h3> P.O.O (Programação Orientada a Objetos) </h3>
   <p> Programação Orientada a Objetos. <br/> <i>(by: )</i>
   </p>
+
+<h3> ALGORITMO </h3>
+  <p> Sequência ordenada de passos para se realizar uma tarefa. <br/> <i>(by: )</i>
+  </p>
