@@ -52,5 +52,8 @@ O conceito de nuvem se mescla com o de Internet, ou seja, computadores espalhado
 É um paradigma de programação que se propõe a abordar o design de um sistema em termos de entidades, os objetos, e relacionamentos entre essas entidades.
   </p>
 <hr>
-<h3> ALGORITMO </h3>
-  <p> Sequência finita e ordenada de passos que visam obter uma solução para um determinado tipo de problema. </p>
+<h3>ALGORITMO</h3>
+  <p>Sequência finita e ordenada de passos que visam obter uma solução para um determinado tipo de problema.</p>
+<hr>
+<h3>LÓGICA DE PROGRAMAÇÃO</h3>
+  <p>É um paradigma de programação que faz uso da lógica matemática.</p>
