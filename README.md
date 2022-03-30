@@ -1,5 +1,5 @@
-<h1 align="center"> Termos do Mundo da Programação </h1>
-<p align="center"> Termos utilizados na área de programação de computadores. </p>
+<h1 align="center">Termos do Mundo da Programação</h1>
+<p align="center"><i>Termos utilizados na área de programação de computadores.</i></p>
 
 <h3> I.D.E. (Integrated Development Environment) </h3>
   <p><b> Ambiente de Desenvolvimento Integrado </b><br>
