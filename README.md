@@ -13,7 +13,8 @@ Programa de computador que reúne características e ferramentas de apoio ao des
   </p>
 <hr>
 <h3>GITHUB</h3>
-  <p>É uma <b>plataforma de hospedagem de código-fonte</b> e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+  <p>É uma <b>plataforma de hospedagem de código-fonte</b> e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.<br>
+<i>(GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. Permite que você e outras pessoas trabalhem em conjunto em projetos de qualquer lugar.)</i>
   </p>
 <hr>
 <h3>GITLAB</h3>
